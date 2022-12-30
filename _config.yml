@@ -13,16 +13,19 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Chengzu's Homepage
+title: "Chengzu's Homepage"
 email: cl917@cam.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
   Chengzu is currently an MPhil student in Advanced Computer Science at Jesus College, the University of Cambridge.
 #  Write an awesome description for your new site here. You can edit this
 #  line in _config.yml. It will appear in your document head meta (for
 #  Google search results) and in your feed.xml site description.
+url: "https://chengzu.github.io"
+baseurl: "/about"
 twitter_username: li_chengzu
 github_username: chengzu-li
-minimal_mistakes_skin: default
+repository: "chengzu-li/chengzu-li.github.io"
+minimal_mistakes_skin: contrast
 search: true
 
 # Build settings
