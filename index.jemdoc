@@ -1,0 +1,77 @@
+# jemdoc: nofooter 
+\n
+== {{<span style="color:black;font-size:24pt;font-family:Songti SC">}}*Chengzu Li*{{</span>}}\n
+
+~~~
+{}{img_left}{photos/bio.jpg}{alt text}{300}{200}
+\n
+MPhil student in Advanced Computer Science\n
+[https://www.cst.cam.ac.uk/ Department of Computer Science and Technology]\n
+[https://www.cam.ac.uk/ University of Cambridge]
+
+
+\[[cl917@cam.ac.uk Email]\]
+\[[https://github.com/chengzu-li Github]\] \[[https://scholar.google.com/citations?user=t_Bwt70AAAAJ&hl=en Google Scholar]\] \[[https://www.semanticscholar.org/author/Chengzu-Li/2155795167 Semantic Scholar]\]
+~~~
+
+== About me
+I am an M.Phil. student in Advanced Computer Science at the Department of Computer Science in the University of Cambridge, supervised by [https://www.cl.cam.ac.uk/~sht25/ Prof. Simone Teufel] and supported by Cambridge Trust. \n
+I received my Bachelor degree in Automation at [http://en.xjtu.edu.cn/ Xi'an Jiaotong University].
+
+
+== Research
+I'm generally interested in different topics in NLP and machine learning. My research interests include semantic parsing, structural knowledge, large language models and their applications.
+I am currently exploring and focusing on:
+- Grounding large language models in physical environments
+- Multimodal reasoning with vision and language
+- Graph neural networks and the applications in explainability
+
+I'm also interested in the possible applications of Gaussian Process and causality in NLP area.
+
+
+== Publications 
+(\*: equal contribution)
+
+*Preprints*
+- [https://arxiv.org/abs/2305.13917 Generating Data for Symbolic Language with Large Language Models]\n
+Jiacheng Ye, *Chengzu Li*, Lingpeng Kong, Tao Yu.\n
+\[[https://arxiv.org/abs/2305.13917 pdf]\] \[[https://github.com/HKUNLP/SymGen code]\]
+
+
+*2023*
+- [https://arxiv.org/abs/2210.02875 Binding Language Models in Symbolic Languages]\n
+Zhoujun Cheng, Tianbao Xie, Peng Shi, *Chengzu Li*, Rahul Nadkarni, Yushi Hu, Caiming Xiong, Dragomir Radev, Mari Ostendorf, Luke Zettlemoyer, Noah A. Smith, Tao Yu. \n
+ICLR 2023 (spotlight). \[[https://arxiv.org/abs/2210.02875 pdf]\] \[[https://github.com/HKUNLP/Binder code]\]
+
+*2022*
+
+- [https://arxiv.org/abs/2201.05966 UnifiedSKG: Unifying and Multi-Tasking Structured Knowledge Grounding with Text-to-Text Language Models]\n
+Tianbao Xie, Chen Henry Wu, Peng Shi, Ruiqi Zhong, Torsten Scholak, Michihiro Yasunaga, Chien-Sheng Wu, Ming Zhong, Pengcheng Yin, Sida I. Wang, Victor Zhong, Bailin Wang, *Chengzu Li*, Connor Boyle, Ansong Ni, Ziyu Yao, Dragomir Radev, Caiming Xiong, Lingpeng Kong, Rui Zhang, Noah A. Smith, Luke Zettlemoyer, Tao Yu. \n
+EMNLP 2022, long paper (oral). \[[https://arxiv.org/abs/2201.05966 pdf]\] \[[https://github.com/hkunlp/unifiedskg code]\]
+
+
+== Internships
+- Jan. 2023 - July 2023
+\nResearch Intern, Toshiba Cambridge Research.
+\nMentor: Svetlana Stoyanchev, [https://sites.google.com/site/cschaozhang/ Chao Zhang], [https://scholar.google.co.uk/citations?user=xxd3HZsAAAAJ&hl=en Rama Sanand Doddipatla] and [https://www.cl.cam.ac.uk/~sht25/ Prof. Simone Teufel].
+\nResearch about Generating Instructions for Robot Navigation as the MPhil thesis.
+
+- Oct. 2021 - Jan. 2022
+\nResearch Intern, Shanghai AI Lab.
+\nMentor: [https://ikekonglp.github.io/ Lingpeng Kong].
+\nResearch about Structural Knowledge Grounding.
+
+- June 2021 - Oct. 2022
+\nResearch Intern, [https://hkunlp.github.io/ HKUNLP].
+\nMentor: [https://taoyds.github.io/ Tao Yu] and [https://ikekonglp.github.io/ Lingpeng Kong].
+\nWorked on Structural Knowledge Grounding, Semantic Parsing and Neural-Symbolic Reasoning.
+
+- July 2020 - Aug. 2020
+\nEngineer Intern, Dianchu Technology.
+\nWorked on machine learning engineering.
+
+
+== Honors & Awards
+- Master Scholarship, Cambridge Trust, 2022.
+- National Scholarship (1\%), Ministry of Education of China, 2019.
+
