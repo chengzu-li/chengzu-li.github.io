@@ -5,8 +5,8 @@
 ~~~
 {}{img_left}{photos/bio.jpg}{alt text}{400}{300}
 \n
-M.Phil. student in Advanced Computer Science\n
-[https://www.cst.cam.ac.uk/ Department of Computer Science and Technology]\n
+PhD in Computation, Cognition and Language\n
+[https://ltl.mmll.cam.ac.uk/ Language Technology Lab]\n
 [https://www.cam.ac.uk/ University of Cambridge]
 
 
@@ -15,9 +15,12 @@ M.Phil. student in Advanced Computer Science\n
 ~~~
 
 == About me
-I am an M.Phil. student in Advanced Computer Science at the Department of Computer Science in the University of Cambridge, supervised by [https://www.cl.cam.ac.uk/~sht25/ Prof. Simone Teufel] and supported by Cambridge Trust.
+I am a first-year PhD student in Computation, Cognition and Language at Language Technology Lab in the University of Cambridge, supervised by [https://sites.google.com/site/annakorhonen/ Prof. Anna Korhonen] and [https://sites.google.com/site/ivanvulic/ Dr. Ivan Vulić].
+My research is supported by Cambridge Trust.
 I am a member of [https://www.jesus.cam.ac.uk/ Jesus College].
-Before joining Cambridge, I received my Bachelor degree in Automation at [http://en.xjtu.edu.cn/ Xi'an Jiaotong University].
+
+Before starting my PhD, I received my MPhil degree in Advanced Computer Science at the Department of Computer Science, supervised by [https://www.cl.cam.ac.uk/~sht25/ Prof. Simone Teufel], supported by Cambridge Trust.
+I was an undergraduate student in Automation at [http://en.xjtu.edu.cn/ Xi'an Jiaotong University].
 
 
 == Research
@@ -25,12 +28,13 @@ I'm generally interested in different topics in NLP and machine learning. My res
 I am currently exploring and focusing on:
 - Grounding large language models in physical environments
 - Multimodal reasoning with vision and language
-- Graph neural networks and the applications in explainability
+- In-context learning and other learning paradigms.
 
 I'm also interested in the possible applications of Gaussian Process and causality in NLP area.
 
 == Education
 - Master of Philosophy in Advanced Computer Science (candidate), University of Cambridge, 2022 \- 2023
+-- Graduation with Distinction
 - Bachelor of Engineering in Automation, Xi'an Jiaotong University, 2018 \- 2022
 -- Graduate with Distinction (91.88/100)
 -- Minor in Fintech (China Construction Bank \- XJTU Fintech Elite Class)
@@ -40,12 +44,14 @@ I'm also interested in the possible applications of Gaussian Process and causali
 (\*: equal contribution)
 
 *Preprints*
-- [https://arxiv.org/abs/2305.13917 Generating Data for Symbolic Language with Large Language Models]\n
-Jiacheng Ye, *Chengzu Li*, Lingpeng Kong, Tao Yu.\n
-\[[https://arxiv.org/abs/2305.13917 pdf]\] \[[https://github.com/HKUNLP/SymGen code]\]
 
 
 *2023*
+
+- [https://arxiv.org/abs/2305.13917 Generating Data for Symbolic Language with Large Language Models]\n
+Jiacheng Ye, *Chengzu Li*, Lingpeng Kong, Tao Yu.\n
+EMNLP 2023. \[[https://arxiv.org/abs/2305.13917 pdf]\] \[[https://github.com/HKUNLP/SymGen code]\]
+
 - [https://arxiv.org/abs/2210.02875 Binding Language Models in Symbolic Languages]\n
 Zhoujun Cheng, Tianbao Xie, Peng Shi, *Chengzu Li*, Rahul Nadkarni, Yushi Hu, Caiming Xiong, Dragomir Radev, Mari Ostendorf, Luke Zettlemoyer, Noah A. Smith, Tao Yu. \n
 ICLR 2023 (spotlight). \[[https://arxiv.org/abs/2210.02875 pdf]\] \[[https://github.com/HKUNLP/Binder code]\]
@@ -79,6 +85,7 @@ EMNLP 2022, long paper (oral). \[[https://arxiv.org/abs/2201.05966 pdf]\] \[[htt
 
 
 == Honors & Awards
+- PhD Scholarship, Cambridge Trust, 2023.
 - Master Scholarship, Cambridge Trust, 2022.
 - National Scholarship (1\%), Ministry of Education of China, 2019.
 
