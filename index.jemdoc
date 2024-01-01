@@ -15,7 +15,7 @@ PhD student in Computation, Cognition and Language\n
 ~~~
 
 == About me
-I am a first-year PhD student in Computation, Cognition and Language at Language Technology Lab in the University of Cambridge, supervised by [https://sites.google.com/site/annakorhonen/ Prof. Anna Korhonen] and [https://sites.google.com/site/ivanvulic/ Dr. Ivan Vulić].
+I am a first-year PhD student in Computation, Cognition and Language at [https://ltl.mmll.cam.ac.uk/ Language Technology Lab] in the University of Cambridge, supervised by [https://sites.google.com/site/annakorhonen/ Prof. Anna Korhonen] and [https://sites.google.com/site/ivanvulic/ Dr. Ivan Vulić].
 My research is supported by Cambridge Trust.
 I am a member of [https://www.jesus.cam.ac.uk/ Jesus College].
 
@@ -33,7 +33,8 @@ I am currently exploring and focusing on:
 I'm also interested in the possible applications of Gaussian Process and causality in NLP area.
 
 == Education
-- Master of Philosophy in Advanced Computer Science (candidate), University of Cambridge, 2022 \- 2023
+- PhD (Probationary) in Computation, Cognition and Language, [https://ltl.mmll.cam.ac.uk/ Language Technology Lab], University of Cambridge, 2023 \- now
+- Master of Philosophy in Advanced Computer Science, University of Cambridge, 2022 \- 2023
 -- Graduation with Distinction
 - Bachelor of Engineering in Automation, Xi'an Jiaotong University, 2018 \- 2022
 -- Graduate with Distinction (91.88/100)
@@ -44,6 +45,10 @@ I'm also interested in the possible applications of Gaussian Process and causali
 (\*: equal contribution)
 
 *Preprints*
+
+- [https://arxiv.org/abs/2312.13772 On Task Performance and Model Calibration with Supervised and Self-Ensembled In-Context Learning]\n
+*Chengzu Li*, Han Zhou, Goran Glavaš, Anna Korhonen, Ivan Vulić. \n
+\[[https://arxiv.org/abs/2312.13772 pdf]\] \[[https://github.com/cambridgeltl/ensembled-sicl code]\]
 
 
 *2023*
@@ -84,7 +89,7 @@ EMNLP 2022, long paper (oral). \[[https://arxiv.org/abs/2201.05966 pdf]\] \[[htt
 \nWorked on machine learning engineering.
 
 
-== Honors & Awards
+== Selected Honors & Awards
 - PhD Scholarship, Cambridge Trust, 2023.
 - Master Scholarship, Cambridge Trust, 2022.
 - National Scholarship (1\%), Ministry of Education of China, 2019.
