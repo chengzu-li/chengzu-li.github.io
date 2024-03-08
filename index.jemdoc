@@ -46,10 +46,15 @@ I'm also interested in the possible applications of Gaussian Process and causali
 
 *Preprints*
 
+
+*2024*
 - [https://arxiv.org/abs/2312.13772 On Task Performance and Model Calibration with Supervised and Self-Ensembled In-Context Learning]\n
 *Chengzu Li*, Han Zhou, Goran Glavaš, Anna Korhonen, Ivan Vulić. \n
-\[[https://arxiv.org/abs/2312.13772 pdf]\] \[[https://github.com/cambridgeltl/ensembled-sicl code]\]
+ICLR 2024 Workshop on Reliable and Responsible Foundation Models. \[[https://arxiv.org/abs/2312.13772 pdf]\] \[[https://github.com/cambridgeltl/ensembled-sicl code]\]
 
+- Semantic Map-based Generation of Navigation Instructions\n
+*Chengzu Li*, Chao Zhang, Simone Teufel, Rama Sanand Doddipatla, Svetlana Stoyanchev.\n
+COLING-LREC 2024. (to appear)
 
 *2023*
 
@@ -90,6 +95,7 @@ EMNLP 2022, long paper (oral). \[[https://arxiv.org/abs/2201.05966 pdf]\] \[[htt
 
 
 == Selected Honors & Awards
+- Scholar of Jesus College (for outstanding academic performance), 2024.
 - PhD Scholarship, Cambridge Trust, 2023.
 - Master Scholarship, Cambridge Trust, 2022.
 - National Scholarship (1\%), Ministry of Education of China, 2019.
