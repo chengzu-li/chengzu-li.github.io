@@ -52,7 +52,7 @@ I'm also interested in the possible applications of Gaussian Process and causali
 *Chengzu Li*, Han Zhou, Goran Glavaš, Anna Korhonen, Ivan Vulić. \n
 ICLR 2024 Workshop on Reliable and Responsible Foundation Models. \[[https://arxiv.org/abs/2312.13772 pdf]\] \[[https://github.com/cambridgeltl/ensembled-sicl code]\]
 
-- Semantic Map-based Generation of Navigation Instructions\n
+- [https://arxiv.org/abs/2403.19603 Semantic Map-based Generation of Navigation Instructions]\n
 *Chengzu Li*, Chao Zhang, Simone Teufel, Rama Sanand Doddipatla, Svetlana Stoyanchev.\n
 COLING-LREC 2024. \[[https://arxiv.org/abs/2403.19603 pdf]\] \[[https://github.com/chengzu-li/VLGen code]\]
 
