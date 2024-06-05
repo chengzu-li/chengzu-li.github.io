@@ -45,13 +45,11 @@ I'm also interested in the possible applications of Gaussian Process and causali
 (\*: equal contribution)
 
 *Preprints*
-
-
-*2024*
 - [https://arxiv.org/abs/2406.02537 TopViewRS: Vision-Language Models as Top-View Spatial Reasoners]\n
 *Chengzu Li*\*, Caiqi Zhang\*, Han Zhou, Nigel Collier, Anna Korhonen, Ivan Vulić \n
 arXiv. \[[https://topviewrs.github.io/ 🔥project website]\] \[[https://arxiv.org/abs/2406.02537 pdf]\] \[[https://github.com/cambridgeltl/topviewrs code]\]
 
+*2024*
 - [https://arxiv.org/abs/2312.13772 On Task Performance and Model Calibration with Supervised and Self-Ensembled In-Context Learning]\n
 *Chengzu Li*, Han Zhou, Goran Glavaš, Anna Korhonen, Ivan Vulić. \n
 ICLR 2024 Workshop on Reliable and Responsible Foundation Models. \[[https://arxiv.org/abs/2312.13772 pdf]\] \[[https://github.com/cambridgeltl/ensembled-sicl code]\]
