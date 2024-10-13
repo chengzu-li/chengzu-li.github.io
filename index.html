@@ -8,31 +8,42 @@
 <title></title>
 </head>
 <body>
-<div id="layout-content">
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-category">Menu</div>
+<div class="menu-item"><a href="index.html" class="current">Home</a></div>
+<div class="menu-item"><a href="publications.html">Publications</a></div>
+<div class="menu-item"><a href="internships.html">Internships</a></div>
+<div class="menu-item"><a href="teaching.html">Teaching</a></div>
+<div class="menu-item"><a href="awards.html">Awards</a></div>
+<div class="menu-item"><a href="assets/cv.pdf">CV</a></div>
+</td>
+<td id="layout-content">
 <p><br /></p>
 <h2><span style="color:black;font-size:24pt;font-family:Songti SC"><b>Chengzu Li</b></span><br /></h2>
 <table class="imgtable"><tr><td>
-<img src="photos/bio.jpg" alt="alt text" width="400px" height="300px" />&nbsp;</td>
+<img src="assets/bio.jpg" alt="alt text" width="400px" height="300px" />&nbsp;</td>
 <td align="left"><p><br />
 PhD student in Computation, Cognition and Language<br />
 <a href="https://ltl.mmll.cam.ac.uk/">Language Technology Lab</a><br />
 <a href="https://www.cam.ac.uk/">University of Cambridge</a></p>
 <p>[<a href="mailto:cl917@cam.ac.uk">Email</a>]
-[<a href="https://github.com/chengzu-li">Github</a>] [<a href="https://scholar.google.com/citations?user=t_Bwt70AAAAJ">Google Scholar</a>] [<a href="https://www.semanticscholar.org/author/Chengzu-Li/2155795167">Semantic Scholar</a>]</p>
+[<a href="https://github.com/chengzu-li">Github</a>] [<a href="https://scholar.google.com/citations?user=t_Bwt70AAAAJ">Google Scholar</a>] [<a href="https://www.semanticscholar.org/author/Chengzu-Li/2155795167">Semantic Scholar</a>] [<a href="assets/cv.pdf">CV</a>]</p>
 </td></tr></table>
 <h2>About me</h2>
-<p>I am a first-year PhD student in Computation, Cognition and Language at <a href="https://ltl.mmll.cam.ac.uk/">Language Technology Lab</a> in the University of Cambridge, supervised by <a href="https://sites.google.com/site/annakorhonen/">Prof. Anna Korhonen</a> and <a href="https://sites.google.com/site/ivanvulic/">Dr. Ivan Vulić</a>.
+<p>I am a second-year PhD student in Computation, Cognition and Language at <a href="https://ltl.mmll.cam.ac.uk/">Language Technology Lab</a> in the University of Cambridge, supervised by <a href="https://sites.google.com/site/ivanvulic/">Dr. Ivan Vulić</a>.
 My research is supported by Cambridge Trust.
 I am a member of <a href="https://www.jesus.cam.ac.uk/">Jesus College</a>.</p>
 <p>Before starting my PhD, I received my MPhil degree in Advanced Computer Science at the Department of Computer Science, supervised by <a href="https://www.cl.cam.ac.uk/~sht25/">Prof. Simone Teufel</a>, supported by Cambridge Trust.
 I was an undergraduate student in Automation at <a href="http://en.xjtu.edu.cn/">Xi'an Jiaotong University</a>.</p>
 <h2>Research</h2>
-<p>I'm generally interested in different topics in NLP and machine learning. My research interests include semantic parsing, structural knowledge, large language models and their applications.
+<p>I'm generally interested in different topics in NLP and machine learning. My research interests include language grounding and reasoning, especially in multimodality (eg. structural knowledge, image, etc.).
 I am currently exploring and focusing on:</p>
 <ul>
-<li><p>Grounding large language models in physical environments</p>
+<li><p>Multimodal spatial reasoning with vision and language</p>
 </li>
-<li><p>Multimodal reasoning with vision and language</p>
+<li><p>Grounding large language models with Chain-of-Thought</p>
 </li>
 <li><p>In-context learning and other learning paradigms.</p>
 </li>
@@ -60,13 +71,13 @@ I am currently exploring and focusing on:</p>
 <h2>Publications </h2>
 <p>(*: equal contribution)</p>
 <p><b>Preprints</b></p>
+<p><b>2024</b></p>
 <ul>
 <li><p><a href="https://arxiv.org/abs/2406.02537">TopViewRS: Vision-Language Models as Top-View Spatial Reasoners</a><br />
 <b>Chengzu Li</b>*, Caiqi Zhang*, Han Zhou, Nigel Collier, Anna Korhonen, Ivan Vulić <br />
-arXiv. [<a href="https://topviewrs.github.io/">🔥project website</a>] [<a href="https://arxiv.org/abs/2406.02537">pdf</a>] [<a href="https://github.com/cambridgeltl/topviewrs">code</a>]</p>
+EMNLP 2024. [<a href="https://topviewrs.github.io/">🔥project website</a>] [<a href="https://arxiv.org/abs/2406.02537">pdf</a>] [<a href="https://github.com/cambridgeltl/topviewrs">code</a>] [<a href="https://huggingface.co/datasets/chengzu/topviewrs">data</a>]</p>
 </li>
 </ul>
-<p><b>2024</b></p>
 <ul>
 <li><p><a href="https://arxiv.org/abs/2312.13772">On Task Performance and Model Calibration with Supervised and Self-Ensembled In-Context Learning</a><br />
 <b>Chengzu Li</b>, Han Zhou, Goran Glavaš, Anna Korhonen, Ivan Vulić. <br />
@@ -101,17 +112,24 @@ EMNLP 2022, long paper (oral). [<a href="https://arxiv.org/abs/2201.05966">pdf</
 </ul>
 <h2>Internships</h2>
 <ul>
+<li><p>Jun. 2024 - Dec. 2024
+<br />Research Intern, <a href="https://www.microsoft.com/en-us/research/group/general-artificial-intelligence/">GenAI Group, Microsoft Research</a>.
+<br />Mentor: <a href="https://scholar.google.com/citations?user=AwANOsQAAAAJ">Wenshan Wu</a>.
+<br />Research on Multimodal Spatial Reasoning.</p>
+</li>
+</ul>
+<ul>
 <li><p>Jan. 2023 - July 2023
 <br />Research Intern, <a href="https://www.toshiba.eu/pages/eu/Cambridge-Research-Laboratory/">Toshiba Cambridge Research</a>.
 <br />Mentor: <a href="https://www.linkedin.com/in/svetlana-stoyanchev/?originalSubdomain=uk">Svetlana Stoyanchev</a>, <a href="https://sites.google.com/site/cschaozhang/">Chao Zhang</a>, <a href="https://scholar.google.co.uk/citations?user=xxd3HZsAAAAJ&amp;hl=en">Rama Sanand Doddipatla</a> and <a href="https://www.cl.cam.ac.uk/~sht25/">Prof. Simone Teufel</a>.
-<br />Research about Generating Instructions for Robot Navigation as the MPhil thesis.</p>
+<br />Research on Generating Instructions for Robot Navigation as the MPhil thesis.</p>
 </li>
 </ul>
 <ul>
 <li><p>Oct. 2021 - Jan. 2022
 <br />Research Intern, Shanghai AI Lab.
 <br />Mentor: <a href="https://ikekonglp.github.io/">Lingpeng Kong</a>.
-<br />Research about Structural Knowledge Grounding.</p>
+<br />Research on Structural Knowledge Grounding.</p>
 </li>
 </ul>
 <ul>
@@ -129,7 +147,7 @@ EMNLP 2022, long paper (oral). [<a href="https://arxiv.org/abs/2201.05966">pdf</
 </ul>
 <h2>Selected Honors &amp; Awards</h2>
 <ul>
-<li><p>Scholar of Jesus College (for outstanding academic performance), 2024.</p>
+<li><p>Scholar of Jesus College, Cambridge (for outstanding academic performance), 2024.</p>
 </li>
 <li><p>PhD Scholarship, Cambridge Trust, 2023.</p>
 </li>
@@ -138,6 +156,8 @@ EMNLP 2022, long paper (oral). [<a href="https://arxiv.org/abs/2201.05966">pdf</
 <li><p>National Scholarship (1%), Ministry of Education of China, 2019.</p>
 </li>
 </ul>
-</div>
+</td>
+</tr>
+</table>
 </body>
 </html>

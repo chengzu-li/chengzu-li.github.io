@@ -1,0 +1,32 @@
+# jemdoc: menu{MENU}{publications.html}, nofooter
+\n
+== Publications 
+\n
+\[[https://scholar.google.com/citations?user=t_Bwt70AAAAJ Google Scholar]\] \[[https://www.semanticscholar.org/author/Chengzu-Li/2155795167 Semantic Scholar]\]
+
+(\*: equal contribution)
+
+*Preprints*
+
+*2024*
+- [https://arxiv.org/abs/2406.02537 TopViewRS: Vision-Language Models as Top-View Spatial Reasoners]\n
+*Chengzu Li*\*, Caiqi Zhang\*, Han Zhou, Nigel Collier, Anna Korhonen, Ivan Vulić \n
+EMNLP 2024. \[[https://topviewrs.github.io/ 🔥project website]\] \[[https://arxiv.org/abs/2406.02537 pdf]\] \[[https://github.com/cambridgeltl/topviewrs code]\] \[[https://huggingface.co/datasets/chengzu/topviewrs data]\]
+
+- [https://arxiv.org/abs/2312.13772 On Task Performance and Model Calibration with Supervised and Self-Ensembled In-Context Learning]\n
+*Chengzu Li*, Han Zhou, Goran Glavaš, Anna Korhonen, Ivan Vulić. \n
+ICLR 2024 Workshop on Reliable and Responsible Foundation Models. \[[https://arxiv.org/abs/2312.13772 pdf]\] \[[https://github.com/cambridgeltl/ensembled-sicl code]\]
+
+- [https://arxiv.org/abs/2403.19603 Semantic Map-based Generation of Navigation Instructions]\n
+*Chengzu Li*, Chao Zhang, Simone Teufel, Rama Sanand Doddipatla, Svetlana Stoyanchev.\n
+COLING-LREC 2024. \[[https://arxiv.org/abs/2403.19603 pdf]\] \[[https://github.com/chengzu-li/VLGen code]\]
+
+*2023*
+
+- [https://arxiv.org/abs/2305.13917 Generating Data for Symbolic Language with Large Language Models]\n
+Jiacheng Ye, *Chengzu Li*, Lingpeng Kong, Tao Yu.\n
+EMNLP 2023. \[[https://arxiv.org/abs/2305.13917 pdf]\] \[[https://github.com/HKUNLP/SymGen code]\]
+
+- [https://arxiv.org/abs/2210.02875 Binding Language Models in Symbolic Languages]\n
+Zhoujun Cheng, Tianbao Xie, Peng Shi, *Chengzu Li*, Rahul Nadkarni, Yushi Hu, Caiming Xiong, Dragomir Radev, Mari Ostendorf, Luke Zettlemoyer, Noah A. Smith, Tao Yu. \n
+ICLR 2023 (spotlight). \[[https://arxiv.org/abs/2210.02875 pdf]\] \[[https://github.com/HKUNLP/Binder code]\]

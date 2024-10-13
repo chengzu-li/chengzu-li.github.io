@@ -1,9 +1,9 @@
-# jemdoc: nofooter 
+# jemdoc: menu{MENU}{index.html}, nofooter
 \n
 == {{<span style="color:black;font-size:24pt;font-family:Songti SC">}}*Chengzu Li*{{</span>}}\n
 
 ~~~
-{}{img_left}{photos/bio.jpg}{alt text}{400}{300}
+{}{img_left}{assets/bio.jpg}{alt text}{400}{300}
 \n
 PhD student in Computation, Cognition and Language\n
 [https://ltl.mmll.cam.ac.uk/ Language Technology Lab]\n
@@ -11,11 +11,11 @@ PhD student in Computation, Cognition and Language\n
 
 
 \[[cl917@cam.ac.uk Email]\]
-\[[https://github.com/chengzu-li Github]\] \[[https://scholar.google.com/citations?user=t_Bwt70AAAAJ Google Scholar]\] \[[https://www.semanticscholar.org/author/Chengzu-Li/2155795167 Semantic Scholar]\]
+\[[https://github.com/chengzu-li Github]\] \[[https://scholar.google.com/citations?user=t_Bwt70AAAAJ Google Scholar]\] \[[https://www.semanticscholar.org/author/Chengzu-Li/2155795167 Semantic Scholar]\] \[[assets/cv.pdf CV]\]
 ~~~
 
 == About me
-I am a first-year PhD student in Computation, Cognition and Language at [https://ltl.mmll.cam.ac.uk/ Language Technology Lab] in the University of Cambridge, supervised by [https://sites.google.com/site/annakorhonen/ Prof. Anna Korhonen] and [https://sites.google.com/site/ivanvulic/ Dr. Ivan Vulić].
+I am a second-year PhD student in Computation, Cognition and Language at [https://ltl.mmll.cam.ac.uk/ Language Technology Lab] in the University of Cambridge, supervised by [https://sites.google.com/site/ivanvulic/ Dr. Ivan Vulić].
 My research is supported by Cambridge Trust.
 I am a member of [https://www.jesus.cam.ac.uk/ Jesus College].
 
@@ -24,10 +24,10 @@ I was an undergraduate student in Automation at [http://en.xjtu.edu.cn/ Xi'an Ji
 
 
 == Research
-I'm generally interested in different topics in NLP and machine learning. My research interests include semantic parsing, structural knowledge, large language models and their applications.
+I'm generally interested in different topics in NLP and machine learning. My research interests include language grounding and reasoning, especially in multimodality (eg. structural knowledge, image, etc.).
 I am currently exploring and focusing on:
-- Grounding large language models in physical environments
-- Multimodal reasoning with vision and language
+- Multimodal spatial reasoning with vision and language
+- Grounding large language models with Chain-of-Thought
 - In-context learning and other learning paradigms.
 
 I'm also interested in the possible applications of Gaussian Process and causality in NLP area.
@@ -45,11 +45,12 @@ I'm also interested in the possible applications of Gaussian Process and causali
 (\*: equal contribution)
 
 *Preprints*
-- [https://arxiv.org/abs/2406.02537 TopViewRS: Vision-Language Models as Top-View Spatial Reasoners]\n
-*Chengzu Li*\*, Caiqi Zhang\*, Han Zhou, Nigel Collier, Anna Korhonen, Ivan Vulić \n
-arXiv. \[[https://topviewrs.github.io/ 🔥project website]\] \[[https://arxiv.org/abs/2406.02537 pdf]\] \[[https://github.com/cambridgeltl/topviewrs code]\]
 
 *2024*
+- [https://arxiv.org/abs/2406.02537 TopViewRS: Vision-Language Models as Top-View Spatial Reasoners]\n
+*Chengzu Li*\*, Caiqi Zhang\*, Han Zhou, Nigel Collier, Anna Korhonen, Ivan Vulić \n
+EMNLP 2024. \[[https://topviewrs.github.io/ 🔥project website]\] \[[https://arxiv.org/abs/2406.02537 pdf]\] \[[https://github.com/cambridgeltl/topviewrs code]\] \[[https://huggingface.co/datasets/chengzu/topviewrs data]\]
+
 - [https://arxiv.org/abs/2312.13772 On Task Performance and Model Calibration with Supervised and Self-Ensembled In-Context Learning]\n
 *Chengzu Li*, Han Zhou, Goran Glavaš, Anna Korhonen, Ivan Vulić. \n
 ICLR 2024 Workshop on Reliable and Responsible Foundation Models. \[[https://arxiv.org/abs/2312.13772 pdf]\] \[[https://github.com/cambridgeltl/ensembled-sicl code]\]
@@ -76,15 +77,20 @@ EMNLP 2022, long paper (oral). \[[https://arxiv.org/abs/2201.05966 pdf]\] \[[htt
 
 
 == Internships
+- Jun. 2024 - Dec. 2024
+\nResearch Intern, [https://www.microsoft.com/en-us/research/group/general-artificial-intelligence/ GenAI Group, Microsoft Research].
+\nMentor: [https://scholar.google.com/citations?user=AwANOsQAAAAJ Wenshan Wu].
+\nResearch on Multimodal Spatial Reasoning.
+
 - Jan. 2023 - July 2023
 \nResearch Intern, [https://www.toshiba.eu/pages/eu/Cambridge-Research-Laboratory/ Toshiba Cambridge Research].
 \nMentor: [https://www.linkedin.com/in/svetlana-stoyanchev/?originalSubdomain=uk Svetlana Stoyanchev], [https://sites.google.com/site/cschaozhang/ Chao Zhang], [https://scholar.google.co.uk/citations?user=xxd3HZsAAAAJ&hl=en Rama Sanand Doddipatla] and [https://www.cl.cam.ac.uk/~sht25/ Prof. Simone Teufel].
-\nResearch about Generating Instructions for Robot Navigation as the MPhil thesis.
+\nResearch on Generating Instructions for Robot Navigation as the MPhil thesis.
 
 - Oct. 2021 - Jan. 2022
 \nResearch Intern, Shanghai AI Lab.
 \nMentor: [https://ikekonglp.github.io/ Lingpeng Kong].
-\nResearch about Structural Knowledge Grounding.
+\nResearch on Structural Knowledge Grounding.
 
 - June 2021 - Oct. 2022
 \nResearch Intern, [https://hkunlp.github.io/ HKUNLP].
@@ -97,7 +103,7 @@ EMNLP 2022, long paper (oral). \[[https://arxiv.org/abs/2201.05966 pdf]\] \[[htt
 
 
 == Selected Honors & Awards
-- Scholar of Jesus College (for outstanding academic performance), 2024.
+- Scholar of Jesus College, Cambridge (for outstanding academic performance), 2024.
 - PhD Scholarship, Cambridge Trust, 2023.
 - Master Scholarship, Cambridge Trust, 2022.
 - National Scholarship (1\%), Ministry of Education of China, 2019.
