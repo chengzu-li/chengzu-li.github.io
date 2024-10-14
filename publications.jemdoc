@@ -11,7 +11,7 @@
 *2024*
 - [https://arxiv.org/abs/2406.02537 TopViewRS: Vision-Language Models as Top-View Spatial Reasoners]\n
 *Chengzu Li*\*, Caiqi Zhang\*, Han Zhou, Nigel Collier, Anna Korhonen, Ivan Vulić \n
-EMNLP 2024. \[[https://topviewrs.github.io/ 🔥project website]\] \[[https://arxiv.org/abs/2406.02537 pdf]\] \[[https://github.com/cambridgeltl/topviewrs code]\] \[[https://huggingface.co/datasets/chengzu/topviewrs data]\]
+EMNLP 2024, main (oral). \[[https://topviewrs.github.io/ 🔥project website]\] \[[https://arxiv.org/abs/2406.02537 pdf]\] \[[https://github.com/cambridgeltl/topviewrs code]\] \[[https://huggingface.co/datasets/chengzu/topviewrs data]\]
 
 - [https://arxiv.org/abs/2312.13772 On Task Performance and Model Calibration with Supervised and Self-Ensembled In-Context Learning]\n
 *Chengzu Li*, Han Zhou, Goran Glavaš, Anna Korhonen, Ivan Vulić. \n
@@ -30,3 +30,9 @@ EMNLP 2023. \[[https://arxiv.org/abs/2305.13917 pdf]\] \[[https://github.com/HKU
 - [https://arxiv.org/abs/2210.02875 Binding Language Models in Symbolic Languages]\n
 Zhoujun Cheng, Tianbao Xie, Peng Shi, *Chengzu Li*, Rahul Nadkarni, Yushi Hu, Caiming Xiong, Dragomir Radev, Mari Ostendorf, Luke Zettlemoyer, Noah A. Smith, Tao Yu. \n
 ICLR 2023 (spotlight). \[[https://arxiv.org/abs/2210.02875 pdf]\] \[[https://github.com/HKUNLP/Binder code]\]
+
+*2022*
+
+- [https://arxiv.org/abs/2201.05966 UnifiedSKG: Unifying and Multi-Tasking Structured Knowledge Grounding with Text-to-Text Language Models]\n
+Tianbao Xie, Chen Henry Wu, Peng Shi, Ruiqi Zhong, Torsten Scholak, Michihiro Yasunaga, Chien-Sheng Wu, Ming Zhong, Pengcheng Yin, Sida I. Wang, Victor Zhong, Bailin Wang, *Chengzu Li*, Connor Boyle, Ansong Ni, Ziyu Yao, Dragomir Radev, Caiming Xiong, Lingpeng Kong, Rui Zhang, Noah A. Smith, Luke Zettlemoyer, Tao Yu. \n
+EMNLP 2022, main (oral). \[[https://arxiv.org/abs/2201.05966 pdf]\] \[[https://github.com/hkunlp/unifiedskg code]\]
