@@ -45,11 +45,14 @@ I'm also interested in the possible applications of Gaussian Process and causali
 (\*: equal contribution)
 
 *Preprints*
+- 🔥[https://drive.google.com/file/d/1COaDxaqHKYlYdfIHgudYeRqvLIfBv1NP/view?usp=sharing Imagine while Reasoning in Space: Multimodal Visualization-of-Thought]\n
+*Chengzu Li*\*, Wenshan Wu\*, Huanyu Zhang, Yan Xia, Shaoguang Mao, Li Dong, Ivan Vulić, Furu Wei \n
+arXiv. \[[https://drive.google.com/file/d/1COaDxaqHKYlYdfIHgudYeRqvLIfBv1NP/view?usp=sharing pdf]\] 
 
 *2024*
 - [https://arxiv.org/abs/2406.02537 TopViewRS: Vision-Language Models as Top-View Spatial Reasoners]\n
 *Chengzu Li*\*, Caiqi Zhang\*, Han Zhou, Nigel Collier, Anna Korhonen, Ivan Vulić \n
-EMNLP 2024, main (oral). \[[https://topviewrs.github.io/ 🔥project website]\] \[[https://arxiv.org/abs/2406.02537 pdf]\] \[[https://github.com/cambridgeltl/topviewrs code]\] \[[https://huggingface.co/datasets/chengzu/topviewrs data]\]
+EMNLP 2024, main (oral). \[[https://topviewrs.github.io/ project website]\] \[[https://arxiv.org/abs/2406.02537 pdf]\] \[[https://github.com/cambridgeltl/topviewrs code]\] \[[https://huggingface.co/datasets/chengzu/topviewrs data]\]
 
 - [https://arxiv.org/abs/2312.13772 On Task Performance and Model Calibration with Supervised and Self-Ensembled In-Context Learning]\n
 *Chengzu Li*, Han Zhou, Goran Glavaš, Anna Korhonen, Ivan Vulić. \n
