@@ -11,11 +11,11 @@ PhD student in Computation, Cognition and Language\n
 
 
 \[[cl917@cam.ac.uk Email]\]
-\[[https://github.com/chengzu-li Github]\] \[[https://scholar.google.com/citations?user=t_Bwt70AAAAJ Google Scholar]\] \[[https://www.semanticscholar.org/author/Chengzu-Li/2155795167 Semantic Scholar]\] \[[assets/cv.pdf CV]\]
+\[[https://github.com/chengzu-li Github]\] \[[https://scholar.google.com/citations?user=t_Bwt70AAAAJ Google Scholar]\] \[[https://www.semanticscholar.org/author/Chengzu-Li/2155795167 Semantic Scholar]\] \[[assets/CV_PhD_Chengzu.pdf CV]\]
 ~~~
 
 == About me
-I am a second-year PhD student in Computation, Cognition and Language at [https://ltl.mmll.cam.ac.uk/ Language Technology Lab] in the University of Cambridge, supervised by [https://sites.google.com/site/ivanvulic/ Dr. Ivan Vulić].
+I am a second-year PhD student in Computation, Cognition and Language at [https://ltl.mmll.cam.ac.uk/ Language Technology Lab] in the University of Cambridge, supervised by [https://sites.google.com/site/ivanvulic/ Dr. Ivan Vulić] and [https://sergebelongie.github.io/ Prof. Serge Belongie].
 My research is supported by Cambridge Trust.
 I am a member of [https://www.jesus.cam.ac.uk/ Jesus College].
 
@@ -26,11 +26,11 @@ I was an undergraduate student in Automation at [http://en.xjtu.edu.cn/ Xi'an Ji
 == Research
 I'm generally interested in different topics in NLP and machine learning. My research interests include language grounding and reasoning, especially in multimodality (eg. structural knowledge, image, etc.).
 I am currently exploring and focusing on:
-- Multimodal spatial reasoning with vision and language
-- Grounding large language models with Chain-of-Thought
-- In-context learning and other learning paradigms.
+- Multimodal spatial reasoning with vision and language \[[https://topviewrs.github.io/ TopViewRS]\]
+- Grounding large language models with Multimodal Chain-of-Thought \[[https://arxiv.org/abs/2501.07542v1 MVoT]\]
+- Multimodal thinking models.
 
-I'm also interested in the possible applications of Gaussian Process and causality in NLP area.
+I'm also interested in the potential downstream application scenarios of multimodal reasoning.
 
 == Education
 - PhD (Probationary) in Computation, Cognition and Language, [https://ltl.mmll.cam.ac.uk/ Language Technology Lab], University of Cambridge, 2023 \- now
@@ -111,3 +111,8 @@ EMNLP 2022, main (oral). \[[https://arxiv.org/abs/2201.05966 pdf]\] \[[https://g
 - Master Scholarship, Cambridge Trust, 2022.
 - National Scholarship (1\%), Ministry of Education of China, 2019.
 
+
+== Media Coverage and Presentations
+- [https://twimlai.com/podcast/twimlai/imagine-while-reasoning-in-space-multimodal-visualization-of-thought/ The TWIML AI Podcast with Sam Charrington]
+- [https://spectrum.ieee.org/visual-reasoning-in-ai IEEE Spectrum, ``Thinking" Visually Boosts AI Problem Solving]
+- [https://www.youtube.com/watch?v=Y78aSGJNeXY BMVA: Trustworthy Multimodal Learning with Foundation Models]
