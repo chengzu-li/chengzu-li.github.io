@@ -7,13 +7,15 @@
 (\*: equal contribution)
 
 *Preprints*
-- 🔥[https://arxiv.org/abs/2501.07542v1 Imagine while Reasoning in Space: Multimodal Visualization-of-Thought]\n
-*Chengzu Li*\*, Wenshan Wu\*, Huanyu Zhang, Yan Xia, Shaoguang Mao, Li Dong, Ivan Vulić, Furu Wei \n
-arXiv. \[[https://arxiv.org/pdf/2501.07542v1 pdf]\] \[[https://github.com/chengzu-li/MVoT code]\]
 
 - 🔥[https://arxiv.org/abs/2504.15037 A Call for New Recipes to Enhance Spatial Reasoning in MLLMs]\n
 Huanyu Zhang\*, *Chengzu Li*\*, Wenshan Wu, Shaoguang Mao, Yan Xia, Ivan Vulić, Zhang Zhang, Liang Wang, Tieniu Tan, Furu Wei \n
 arXiv. \[[https://arxiv.org/pdf/2504.15037 pdf]\] 
+
+*2025*
+- 🔥[https://arxiv.org/abs/2501.07542v1 Imagine while Reasoning in Space: Multimodal Visualization-of-Thought]\n
+*Chengzu Li*\*, Wenshan Wu\*, Huanyu Zhang, Yan Xia, Shaoguang Mao, Li Dong, Ivan Vulić, Furu Wei \n
+ICML 2025. \[[https://arxiv.org/pdf/2501.07542v1 pdf]\] \[[https://github.com/chengzu-li/MVoT code]\]
 
 *2024*
 - [https://arxiv.org/abs/2406.02537 TopViewRS: Vision-Language Models as Top-View Spatial Reasoners]\n
