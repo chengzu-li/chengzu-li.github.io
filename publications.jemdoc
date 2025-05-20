@@ -8,40 +8,44 @@
 
 *Preprints*
 
-- 🔥[https://arxiv.org/abs/2504.15037 A Call for New Recipes to Enhance Spatial Reasoning in MLLMs]\n
+- [https://arxiv.org/abs/2505.11409 Visual Planning: Let's Think Only with Images] \n
+Yi Xu\*, *Chengzu Li*\*, Han Zhou\*, Xingchen Wan, Caiqi Zhang, Anna Korhonen, Ivan Vulić \n
+arXiv. \[[https://github.com/yix8/VisualPlanning code]\]
+
+- [https://arxiv.org/abs/2504.15037 Scaling and Beyond: Advancing Spatial Reasoning in MLLMs Requires New Recipes] \n
 Huanyu Zhang\*, *Chengzu Li*\*, Wenshan Wu, Shaoguang Mao, Yan Xia, Ivan Vulić, Zhang Zhang, Liang Wang, Tieniu Tan, Furu Wei \n
-arXiv. \[[https://arxiv.org/pdf/2504.15037 pdf]\] 
+arXiv. 
 
 *2025*
-- 🔥[https://arxiv.org/abs/2501.07542v1 Imagine while Reasoning in Space: Multimodal Visualization-of-Thought]\n
+- [https://arxiv.org/abs/2501.07542v1 Imagine while Reasoning in Space: Multimodal Visualization-of-Thought] \n
 *Chengzu Li*\*, Wenshan Wu\*, Huanyu Zhang, Yan Xia, Shaoguang Mao, Li Dong, Ivan Vulić, Furu Wei \n
-ICML 2025. \[[https://arxiv.org/pdf/2501.07542v1 pdf]\] \[[https://github.com/chengzu-li/MVoT code]\]
+ICML 2025. \[[https://github.com/chengzu-li/MVoT code]\] \[[https://spectrum.ieee.org/visual-reasoning-in-ai IEEE Spectrum]\] \[[https://twimlai.com/podcast/twimlai/imagine-while-reasoning-in-space-multimodal-visualization-of-thought/ TWIML Podcast]\] \[[https://mp.weixin.qq.com/s/JwXYrDxiajnv0tNUuOPYFg 新智元]\]
+
+- [https://arxiv.org/abs/2312.13772 Large Language Models are Miscalibrated In-Context Learners]\n
+*Chengzu Li*, Han Zhou, Goran Glavaš, Anna Korhonen, Ivan Vulić. \n
+ACL 2025, Findings. \[[https://github.com/cambridgeltl/ensembled-sicl code]\]
 
 *2024*
-- [https://arxiv.org/abs/2406.02537 TopViewRS: Vision-Language Models as Top-View Spatial Reasoners]\n
+- [https://arxiv.org/abs/2406.02537 TopViewRS: Vision-Language Models as Top-View Spatial Reasoners] \n
 *Chengzu Li*\*, Caiqi Zhang\*, Han Zhou, Nigel Collier, Anna Korhonen, Ivan Vulić \n
-EMNLP 2024, main (oral). \[[https://topviewrs.github.io/ project website]\] \[[https://arxiv.org/pdf/2406.02537 pdf]\] \[[https://github.com/cambridgeltl/topviewrs code]\] \[[https://huggingface.co/datasets/chengzu/topviewrs data]\]
-
-- [https://arxiv.org/abs/2312.13772 On Task Performance and Model Calibration with Supervised and Self-Ensembled In-Context Learning]\n
-*Chengzu Li*, Han Zhou, Goran Glavaš, Anna Korhonen, Ivan Vulić. \n
-ICLR 2024 Workshop on Reliable and Responsible Foundation Models. \[[https://arxiv.org/pdf/2312.13772 pdf]\] \[[https://github.com/cambridgeltl/ensembled-sicl code]\]
+EMNLP 2024, main (oral). \[[https://topviewrs.github.io/ project website]\] \[[https://github.com/cambridgeltl/topviewrs code]\] \[[https://huggingface.co/datasets/chengzu/topviewrs data]\]
 
 - [https://arxiv.org/abs/2403.19603 Semantic Map-based Generation of Navigation Instructions]\n
 *Chengzu Li*, Chao Zhang, Simone Teufel, Rama Sanand Doddipatla, Svetlana Stoyanchev.\n
-COLING-LREC 2024. \[[https://arxiv.org/pdf/2403.19603 pdf]\] \[[https://github.com/chengzu-li/VLGen code]\]
+COLING-LREC 2024. \[[https://github.com/chengzu-li/VLGen code]\]
 
 *2023*
 
 - [https://arxiv.org/abs/2305.13917 Generating Data for Symbolic Language with Large Language Models]\n
 Jiacheng Ye, *Chengzu Li*, Lingpeng Kong, Tao Yu.\n
-EMNLP 2023. \[[https://arxiv.org/pdf/2305.13917 pdf]\] \[[https://github.com/HKUNLP/SymGen code]\]
+EMNLP 2023, main. \[[https://github.com/HKUNLP/SymGen code]\]
 
 - [https://arxiv.org/abs/2210.02875 Binding Language Models in Symbolic Languages]\n
 Zhoujun Cheng, Tianbao Xie, Peng Shi, *Chengzu Li*, Rahul Nadkarni, Yushi Hu, Caiming Xiong, Dragomir Radev, Mari Ostendorf, Luke Zettlemoyer, Noah A. Smith, Tao Yu. \n
-ICLR 2023 (spotlight). \[[https://arxiv.org/pdf/2210.02875 pdf]\] \[[https://github.com/HKUNLP/Binder code]\]
+ICLR 2023 (spotlight). \[[https://github.com/HKUNLP/Binder code]\]
 
 *2022*
 
 - [https://arxiv.org/abs/2201.05966 UnifiedSKG: Unifying and Multi-Tasking Structured Knowledge Grounding with Text-to-Text Language Models]\n
 Tianbao Xie, Chen Henry Wu, Peng Shi, Ruiqi Zhong, Torsten Scholak, Michihiro Yasunaga, Chien-Sheng Wu, Ming Zhong, Pengcheng Yin, Sida I. Wang, Victor Zhong, Bailin Wang, *Chengzu Li*, Connor Boyle, Ansong Ni, Ziyu Yao, Dragomir Radev, Caiming Xiong, Lingpeng Kong, Rui Zhang, Noah A. Smith, Luke Zettlemoyer, Tao Yu. \n
-EMNLP 2022, main (oral). \[[https://arxiv.org/pdf/2201.05966 pdf]\] \[[https://github.com/hkunlp/unifiedskg code]\]
+EMNLP 2022, main (oral). \[[https://github.com/hkunlp/unifiedskg code]\]
