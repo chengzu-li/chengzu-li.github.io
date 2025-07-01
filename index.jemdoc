@@ -47,11 +47,20 @@ I'm also interested in the potential downstream application scenarios of multimo
 
 - [https://arxiv.org/abs/2505.11409 Visual Planning: Let's Think Only with Images] \n
 Yi Xu\*, *Chengzu Li*\*, Han Zhou\*, Xingchen Wan, Caiqi Zhang, Anna Korhonen, Ivan Vulić \n
-arXiv. \[[https://github.com/yix8/VisualPlanning code]\]
+arXiv. \[[https://github.com/yix8/VisualPlanning code]\] \[[https://mp.weixin.qq.com/s/KXx1t3jIlhLWu0rlVoQWNA 机器之心]\] \[[https://mp.weixin.qq.com/s/FNeGEV7Vccfga53GxC9MMg 量子位]\]
 
 - [https://arxiv.org/abs/2504.15037 Scaling and Beyond: Advancing Spatial Reasoning in MLLMs Requires New Recipes] \n
 Huanyu Zhang\*, *Chengzu Li*\*, Wenshan Wu, Shaoguang Mao, Yan Xia, Ivan Vulić, Zhang Zhang, Liang Wang, Tieniu Tan, Furu Wei \n
 arXiv. 
+
+- [https://arxiv.org/abs/2505.23912 Reinforcement Learning for Better Verbalized Confidence in Long-Form Generation] \n
+Caiqi Zhang\*, Xiaochen Zhu\*, *Chengzu Li*, Nigel Collier, Andreas Vlachos \n
+arXiv. 
+
+- [https://arxiv.org/abs/2505.12568 Enriching Patent Claim Generation with European Patent Dataset] \n
+Lekang Jiang, *Chengzu Li*, Stephan Goetz \n
+arXiv. 
+
 
 *2025*
 - [https://arxiv.org/abs/2501.07542v1 Imagine while Reasoning in Space: Multimodal Visualization-of-Thought] \n
@@ -89,6 +98,11 @@ EMNLP 2022, main (oral). \[[https://github.com/hkunlp/unifiedskg code]\]
 
 
 == Internships
+- Aug. 2025 - Nov. 2025
+\nVisiting Student, Belongie Lab, Pioneer Center for AI.
+\nMentor: [https://scholar.google.com/citations?user=chD5XxkAAAAJ&hl=en Prof. Serge Belongie].
+\nResearch on Multimodal Reasoning.
+
 - Jun. 2024 - Dec. 2024
 \nResearch Intern, [https://www.microsoft.com/en-us/research/group/general-artificial-intelligence/ GenAI Group, Microsoft Research].
 \nMentor: [https://scholar.google.com/citations?user=AwANOsQAAAAJ Wenshan Wu].
@@ -122,6 +136,9 @@ EMNLP 2022, main (oral). \[[https://github.com/hkunlp/unifiedskg code]\]
 
 
 == Media Coverage and Presentations
+- [https://docs.google.com/presentation/d/12UFPQxfwEHM6lScMME-JdWYsw-AuURsd8AG-L9MeLxg/edit?slide=id.g20636aa3674_0_0#slide=id.g20636aa3674_0_0 Invited Talk at HKUST (GZ): Reason with Multimodal Minds in Space]
+- [https://mp.weixin.qq.com/s/KXx1t3jIlhLWu0rlVoQWNA 机器之心：只用图像也能思考，强化学习造就推理模型新范式！复杂场景规划能力Max]
+- [https://mp.weixin.qq.com/s/FNeGEV7Vccfga53GxC9MMg 量子位：纯靠“脑补”图像，大模型推理准确率狂飙80%丨剑桥谷歌新研究]
 - [https://twimlai.com/podcast/twimlai/imagine-while-reasoning-in-space-multimodal-visualization-of-thought/ The TWIML AI Podcast with Sam Charrington]
 - [https://spectrum.ieee.org/visual-reasoning-in-ai IEEE Spectrum, ``Thinking" Visually Boosts AI Problem Solving]
 - [https://mp.weixin.qq.com/s/JwXYrDxiajnv0tNUuOPYFg 新智元：直接可视化多模态推理过程]
