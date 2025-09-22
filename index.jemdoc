@@ -15,7 +15,7 @@ PhD student in Computation, Cognition and Language\n
 ~~~
 
 == About me
-I am a second-year PhD student in Computation, Cognition and Language at [https://ltl.mmll.cam.ac.uk/ Language Technology Lab] in the University of Cambridge, supervised by [https://sites.google.com/site/ivanvulic/ Dr. Ivan Vulić] and [https://sergebelongie.github.io/ Prof. Serge Belongie].
+I am a third-year PhD student in Computation, Cognition and Language at [https://ltl.mmll.cam.ac.uk/ Language Technology Lab] in the University of Cambridge, supervised by [https://sites.google.com/site/ivanvulic/ Dr. Ivan Vulić], [https://sites.google.com/site/annakorhonen/ Prof. Anna Korhonen] and [https://sergebelongie.github.io/ Prof. Serge Belongie].
 My research is supported by Cambridge Trust.
 I am a member of [https://www.jesus.cam.ac.uk/ Jesus College].
 
@@ -24,10 +24,10 @@ I was an undergraduate student in Automation at [http://en.xjtu.edu.cn/ Xi'an Ji
 
 
 == Research
-My research interests include language grounding and multimodal reasoning (eg. image, structural knowledge, etc.).
+My research interests include language grounding and multimodal reasoning (eg. image, structural knowledge, etc.), especially spatial reasoning \[[https://arxiv.org/abs/2504.15037 New Recipes]\].
 I am currently exploring and focusing on the topics below:
-- Spatial reasoning: evaluation and improvements \[[https://topviewrs.github.io/ TopViewRS]\] \[[https://arxiv.org/abs/2504.15037 New Recipes]\]
-- Multimodal reasoning: paradigm and methods \[[https://arxiv.org/abs/2501.07542v1 MVoT]\] \[[https://arxiv.org/abs/2505.11409 Visual Planning]\]
+- Evaluation with explanatory and predictive power: \[[https://topviewrs.github.io/ TopViewRS]\] \[[https://arxiv.org/abs/2508.20068 11Plus]\]
+- Paradigm and methods for multimodal reasoning: \[[https://arxiv.org/abs/2501.07542v1 MVoT]\] \[[https://arxiv.org/abs/2505.11409 Visual Planning]\]
 
 I'm also interested in the potential downstream application scenarios of multimodal reasoning.
 
@@ -45,6 +45,10 @@ I'm also interested in the potential downstream application scenarios of multimo
 
 *Preprints*
 
+- [https://arxiv.org/abs/2508.20068 11Plus-Bench: Demystifying Multimodal LLM Spatial Reasoning with Cognitive-Inspired Analysis] \n
+*Chengzu Li*, Wenshan Wu, Huanyu Zhang, Qingtao Li, Zeyu Gao, Yan Xia, José Hernández-Orallo, Ivan Vulić, Furu Wei \n
+arxiv. 
+
 - [https://arxiv.org/abs/2505.11409 Visual Planning: Let's Think Only with Images] \n
 Yi Xu\*, *Chengzu Li*\*, Han Zhou\*, Xingchen Wan, Caiqi Zhang, Anna Korhonen, Ivan Vulić \n
 arXiv. \[[https://github.com/yix8/VisualPlanning code]\] \[[https://mp.weixin.qq.com/s/KXx1t3jIlhLWu0rlVoQWNA 机器之心]\] \[[https://mp.weixin.qq.com/s/FNeGEV7Vccfga53GxC9MMg 量子位]\]
@@ -57,9 +61,6 @@ arXiv.
 Caiqi Zhang\*, Xiaochen Zhu\*, *Chengzu Li*, Nigel Collier, Andreas Vlachos \n
 arXiv. 
 
-- [https://arxiv.org/abs/2505.12568 Enriching Patent Claim Generation with European Patent Dataset] \n
-Lekang Jiang, *Chengzu Li*, Stephan Goetz \n
-arXiv. 
 
 
 *2025*
@@ -70,6 +71,14 @@ ICML 2025. \[[https://github.com/chengzu-li/MVoT code]\] \[[https://spectrum.iee
 - [https://arxiv.org/abs/2312.13772 Large Language Models are Miscalibrated In-Context Learners]\n
 *Chengzu Li*, Han Zhou, Goran Glavaš, Anna Korhonen, Ivan Vulić. \n
 ACL 2025, Findings. \[[https://github.com/cambridgeltl/ensembled-sicl code]\]
+
+- [https://arxiv.org/abs/2505.12568 Enriching Patent Claim Generation with European Patent Dataset] \n
+Lekang Jiang, *Chengzu Li*, Stephan Goetz \n
+EMNLP 2025, Findings. 
+
+- [https://www.arxiv.org/abs/2509.11986 Lost in Embeddings: Information Loss in Vision-Language Models] \n
+Wenyan Li, Raphael Tang, *Chengzu Li*, Caiqi Zhang, Ivan Vulić, Anders Søgaard \n
+EMNLP 2025 Findings. 
 
 *2024*
 - [https://arxiv.org/abs/2406.02537 TopViewRS: Vision-Language Models as Top-View Spatial Reasoners] \n
