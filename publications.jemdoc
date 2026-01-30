@@ -8,13 +8,17 @@
 
 *Preprints*
 
+- [https://arxiv.org/abs/2601.21037 Thinking in Frames: How Visual Context and Test-Time Scaling Empower Video Reasoning] \n
+*Chengzu Li*\*, Zanyi Wang\*, Jiaang Li\*, Yi Xu, Han Zhou, Huanyu Zhang, Ruichuan An, Dengyang Jiang, Zhaochong An, Ivan Vulić, Serge Belongie, Anna Korhonen \n
+arxiv. 
+
+- [https://arxiv.org/abs/2510.24514 Latent Sketchpad: Autoregressive Visual Latent Generation for Interpretable Visual Thoughts in MLLMs] \n
+Huanyu Zhang\*, Wenshan Wu\*, *Chengzu Li*, Ning Shang, Yan Xia, Yangyu Huang, Yifan Zhang, Li Dong, Zhang Zhang, Liang Wang, Tieniu Tan, Furu Wei \n
+arxiv.
+
 - [https://arxiv.org/abs/2508.20068 11Plus-Bench: Demystifying Multimodal LLM Spatial Reasoning with Cognitive-Inspired Analysis] \n
 *Chengzu Li*, Wenshan Wu, Huanyu Zhang, Qingtao Li, Zeyu Gao, Yan Xia, José Hernández-Orallo, Ivan Vulić, Furu Wei \n
 arxiv. 
-
-- [https://arxiv.org/abs/2505.11409 Visual Planning: Let's Think Only with Images] \n
-Yi Xu\*, *Chengzu Li*\*, Han Zhou\*, Xingchen Wan, Caiqi Zhang, Anna Korhonen, Ivan Vulić \n
-arXiv. \[[https://github.com/yix8/VisualPlanning code]\]
 
 - [https://arxiv.org/abs/2504.15037 Scaling and Beyond: Advancing Spatial Reasoning in MLLMs Requires New Recipes] \n
 Huanyu Zhang\*, *Chengzu Li*\*, Wenshan Wu, Shaoguang Mao, Yan Xia, Ivan Vulić, Zhang Zhang, Liang Wang, Tieniu Tan, Furu Wei \n
@@ -23,6 +27,15 @@ arXiv.
 - [https://arxiv.org/abs/2505.23912 Reinforcement Learning for Better Verbalized Confidence in Long-Form Generation] \n
 Caiqi Zhang\*, Xiaochen Zhu\*, *Chengzu Li*, Nigel Collier, Andreas Vlachos \n
 arXiv. 
+
+*2026*
+- [https://arxiv.org/abs/2505.11409 Visual Planning: Let's Think Only with Images] \n
+Yi Xu\*, *Chengzu Li*\*, Han Zhou\*, Xingchen Wan, Caiqi Zhang, Anna Korhonen, Ivan Vulić \n
+ICLR 2026. \[[https://github.com/yix8/VisualPlanning code]\] \[[https://mp.weixin.qq.com/s/KXx1t3jIlhLWu0rlVoQWNA 机器之心]\] \[[https://mp.weixin.qq.com/s/FNeGEV7Vccfga53GxC9MMg 量子位]\]
+
+- [https://openreview.net/forum?id=3KaIcArMAB Deforming Videos to Masks: Flow Matching for Referring Video Segmentation] \n
+Zanyi Wang, Dengyang Jiang, Liuzhuozheng Li, Sizhe Dang, *Chengzu Li*, Harry Yang, Guang Dai, Mengmeng Wang, Jingdong Wang \n
+ICLR 2026. \[[https://github.com/xmz111/FlowRVS code]\]
 
 
 *2025*
