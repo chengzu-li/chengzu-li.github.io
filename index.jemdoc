@@ -49,6 +49,10 @@ I'm also interested in the potential downstream application scenarios of multimo
 *Chengzu Li*\*, Zanyi Wang\*, Jiaang Li\*, Yi Xu, Han Zhou, Huanyu Zhang, Ruichuan An, Dengyang Jiang, Zhaochong An, Ivan Vulić, Serge Belongie, Anna Korhonen \n
 arxiv. 
 
+- [https://arxiv.org/abs/2602.01851 How Well Do Models Follow Visual Instructions? VIBE: A Systematic Benchmark for Visual Instruction-Driven Image Editing] \n
+Huanyu Zhang\*, Xuehai Bai\*, *Chengzu Li\**, Chen Liang, Haochen Tian, Haodong Li, Ruichuan An, Yifan Zhang, Anna Korhonen, Zhang Zhang, Liang Wang, Tieniu Tan \n
+arxiv. 
+
 - [https://arxiv.org/abs/2510.24514 Latent Sketchpad: Autoregressive Visual Latent Generation for Interpretable Visual Thoughts in MLLMs] \n
 Huanyu Zhang\*, Wenshan Wu\*, *Chengzu Li*, Ning Shang, Yan Xia, Yangyu Huang, Yifan Zhang, Li Dong, Zhang Zhang, Liang Wang, Tieniu Tan, Furu Wei \n
 arxiv.
@@ -68,7 +72,7 @@ arXiv.
 *2026*
 - [https://arxiv.org/abs/2505.11409 Visual Planning: Let's Think Only with Images] \n
 Yi Xu\*, *Chengzu Li*\*, Han Zhou\*, Xingchen Wan, Caiqi Zhang, Anna Korhonen, Ivan Vulić \n
-ICLR 2026. \[[https://github.com/yix8/VisualPlanning code]\] \[[https://mp.weixin.qq.com/s/KXx1t3jIlhLWu0rlVoQWNA 机器之心]\] \[[https://mp.weixin.qq.com/s/FNeGEV7Vccfga53GxC9MMg 量子位]\]
+ICLR 2026 *(oral)*. \[[https://github.com/yix8/VisualPlanning code]\] \[[https://mp.weixin.qq.com/s/KXx1t3jIlhLWu0rlVoQWNA 机器之心]\] \[[https://mp.weixin.qq.com/s/FNeGEV7Vccfga53GxC9MMg 量子位]\]
 
 - [https://openreview.net/forum?id=3KaIcArMAB Deforming Videos to Masks: Flow Matching for Referring Video Segmentation] \n
 Zanyi Wang, Dengyang Jiang, Liuzhuozheng Li, Sizhe Dang, *Chengzu Li*, Harry Yang, Guang Dai, Mengmeng Wang, Jingdong Wang \n
@@ -95,7 +99,7 @@ EMNLP 2025 Findings.
 *2024*
 - [https://arxiv.org/abs/2406.02537 TopViewRS: Vision-Language Models as Top-View Spatial Reasoners] \n
 *Chengzu Li*\*, Caiqi Zhang\*, Han Zhou, Nigel Collier, Anna Korhonen, Ivan Vulić \n
-EMNLP 2024, main (oral). \[[https://topviewrs.github.io/ project website]\] \[[https://github.com/cambridgeltl/topviewrs code]\] \[[https://huggingface.co/datasets/chengzu/topviewrs data]\]
+EMNLP 2024, main *(oral)*. \[[https://topviewrs.github.io/ project website]\] \[[https://github.com/cambridgeltl/topviewrs code]\] \[[https://huggingface.co/datasets/chengzu/topviewrs data]\]
 
 - [https://arxiv.org/abs/2403.19603 Semantic Map-based Generation of Navigation Instructions]\n
 *Chengzu Li*, Chao Zhang, Simone Teufel, Rama Sanand Doddipatla, Svetlana Stoyanchev.\n
@@ -109,13 +113,13 @@ EMNLP 2023, main. \[[https://github.com/HKUNLP/SymGen code]\]
 
 - [https://arxiv.org/abs/2210.02875 Binding Language Models in Symbolic Languages]\n
 Zhoujun Cheng, Tianbao Xie, Peng Shi, *Chengzu Li*, Rahul Nadkarni, Yushi Hu, Caiming Xiong, Dragomir Radev, Mari Ostendorf, Luke Zettlemoyer, Noah A. Smith, Tao Yu. \n
-ICLR 2023 (spotlight). \[[https://github.com/HKUNLP/Binder code]\]
+ICLR 2023 *(spotlight)*. \[[https://github.com/HKUNLP/Binder code]\]
 
 *2022*
 
 - [https://arxiv.org/abs/2201.05966 UnifiedSKG: Unifying and Multi-Tasking Structured Knowledge Grounding with Text-to-Text Language Models]\n
 Tianbao Xie, Chen Henry Wu, Peng Shi, Ruiqi Zhong, Torsten Scholak, Michihiro Yasunaga, Chien-Sheng Wu, Ming Zhong, Pengcheng Yin, Sida I. Wang, Victor Zhong, Bailin Wang, *Chengzu Li*, Connor Boyle, Ansong Ni, Ziyu Yao, Dragomir Radev, Caiming Xiong, Lingpeng Kong, Rui Zhang, Noah A. Smith, Luke Zettlemoyer, Tao Yu. \n
-EMNLP 2022, main (oral). \[[https://github.com/hkunlp/unifiedskg code]\]
+EMNLP 2022, main *(oral)*. \[[https://github.com/hkunlp/unifiedskg code]\]
 
 
 == Internships
