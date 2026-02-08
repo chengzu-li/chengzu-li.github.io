@@ -26,7 +26,7 @@ I was an undergraduate student in Automation at [http://en.xjtu.edu.cn/ Xi'an Ji
 == Research
 My research interests include language grounding and multimodal reasoning (eg. image, structural knowledge, etc.), especially spatial reasoning \[[https://arxiv.org/abs/2504.15037 New Recipes]\].
 I am currently exploring and focusing on the topics below:
-- Evaluation with explanatory and predictive power: \[[https://topviewrs.github.io/ TopViewRS]\] \[[https://arxiv.org/abs/2508.20068 11Plus]\]
+- Evaluation with explanatory and predictive power: \[[https://topviewrs.github.io/ TopViewRS]\] \[[https://arxiv.org/abs/2508.20068 11Plus]\] \[[https://vibe-benchmark.github.io/ VIBE]\]
 - Paradigm and methods for multimodal reasoning: \[[https://arxiv.org/abs/2501.07542v1 MVoT]\] \[[https://arxiv.org/abs/2505.11409 Visual Planning]\] \[[https://arxiv.org/abs/2505.11409 Thinking in Frames]\]
 
 I'm also interested in the potential downstream application scenarios of multimodal reasoning.
@@ -47,15 +47,15 @@ I'm also interested in the potential downstream application scenarios of multimo
 
 - [https://arxiv.org/abs/2601.21037 Thinking in Frames: How Visual Context and Test-Time Scaling Empower Video Reasoning] \n
 *Chengzu Li*\*, Zanyi Wang\*, Jiaang Li\*, Yi Xu, Han Zhou, Huanyu Zhang, Ruichuan An, Dengyang Jiang, Zhaochong An, Ivan Vulić, Serge Belongie, Anna Korhonen \n
-arxiv. 
+arxiv. \[[https://thinking-in-frames.github.io/ project website]\]
 
 - [https://arxiv.org/abs/2602.01851 How Well Do Models Follow Visual Instructions? VIBE: A Systematic Benchmark for Visual Instruction-Driven Image Editing] \n
 Huanyu Zhang\*, Xuehai Bai\*, *Chengzu Li\**, Chen Liang, Haochen Tian, Haodong Li, Ruichuan An, Yifan Zhang, Anna Korhonen, Zhang Zhang, Liang Wang, Tieniu Tan \n
-arxiv. 
+arxiv. \[[https://vibe-benchmark.github.io/ project website]\]
 
 - [https://arxiv.org/abs/2510.24514 Latent Sketchpad: Autoregressive Visual Latent Generation for Interpretable Visual Thoughts in MLLMs] \n
 Huanyu Zhang\*, Wenshan Wu\*, *Chengzu Li*, Ning Shang, Yan Xia, Yangyu Huang, Yifan Zhang, Li Dong, Zhang Zhang, Liang Wang, Tieniu Tan, Furu Wei \n
-arxiv.
+arxiv. \[[https://latent-sketchpad.github.io/ project website]\]
 
 - [https://arxiv.org/abs/2508.20068 11Plus-Bench: Demystifying Multimodal LLM Spatial Reasoning with Cognitive-Inspired Analysis] \n
 *Chengzu Li*, Wenshan Wu, Huanyu Zhang, Qingtao Li, Zeyu Gao, Yan Xia, José Hernández-Orallo, Ivan Vulić, Furu Wei \n
