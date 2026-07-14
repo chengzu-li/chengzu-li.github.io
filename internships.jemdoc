@@ -2,31 +2,42 @@
 \n
 == Internships and Visits
 \n
-- Aug. 2025 - Nov. 2025
-\nVisiting Student, Belongie Lab, Pioneer Center for AI.
-\nMentor: [https://scholar.google.com/citations?user=chD5XxkAAAAJ&hl=en Prof. Serge Belongie].
-\nResearch on Multimodal Reasoning.
+*2026*
 
-- Jun. 2024 - Dec. 2024
-\nResearch Intern, GenAI Group, Microsoft Research.
-\nMentor: [https://scholar.google.com/citations?user=AwANOsQAAAAJ Wenshan Wu].
-\nResearch on Multimodal Spatial Reasoning.
+Google Cloud \& DeepMind, London, UK \n
+- Student Researcher \n
+- Mentors: [https://www.sercanarik.com/ Sercan Ö. Arik] and [https://www.linkedin.com/in/kieran-milan-03b95135/ Kieran Milan]
+- Working on multimodal agents. 
 
-- Jan. 2023 - July 2023
-\nResearch Intern, [https://www.toshiba.eu/pages/eu/Cambridge-Research-Laboratory/ Toshiba Cambridge Research].
-\nMentor: [https://www.linkedin.com/in/svetlana-stoyanchev/?originalSubdomain=uk Svetlana Stoyanchev], [https://sites.google.com/site/cschaozhang/ Chao Zhang], [https://scholar.google.co.uk/citations?user=xxd3HZsAAAAJ&hl=en Rama Sanand Doddipatla] and [https://www.cl.cam.ac.uk/~sht25/ Prof. Simone Teufel].
-\nResearch on Generating Instructions for Robot Navigation as the MPhil thesis.
+Microsoft Research Cambridge, Cambridge, UK \n
+- Research Intern, [https://www.microsoft.com/en-us/research/group/game-intelligence/ Game Intelligence, People-Centric AI] \n
+- Mentors: [https://www.microsoft.com/en-us/research/people/sergiov/ Sergio Valcarcel Macua] and [https://www.microsoft.com/en-us/research/people/kahofman/ Katja Hofmann] \n
+- Developing world models for planning with video generation in robotics applications.
 
-- Oct. 2021 - Jan. 2022
-\nResearch Intern, Shanghai AI Lab.
-\nMentor: [https://ikekonglp.github.io/ Lingpeng Kong].
-\nResearch on Structural Knowledge Grounding.
+*2025*
 
-- June 2021 - Oct. 2021
-\nResearch Intern, [https://hkunlp.github.io/ HKUNLP].
-\nMentor: [https://taoyds.github.io/ Tao Yu] and [https://ikekonglp.github.io/ Lingpeng Kong].
-\nWorked on Structural Knowledge Grounding, Semantic Parsing and Neural-Symbolic Reasoning.
+Belongie Lab, Pioneer Center for AI, Copenhagen, Denmark \n
+- Visiting Researcher \n
+- Mentors: [https://scholar.google.com/citations?user=chD5XxkAAAAJ&hl=en Prof. Serge Belongie] \n
+- Research on multimodal reasoning. 
 
-- July 2020 - Aug. 2020
-\nEngineer Intern, Dianchu Technology.
-\nWorked on machine learning engineering.
+*2024*
+
+Microsoft Research Asia, Beijing, China \n
+- Research Intern, [https://aka.ms/GeneralAI GenAI Group] \n
+- Mentors: [https://scholar.google.com/citations?user=AwANOsQAAAAJ&hl=en Wenshan Wu], [https://www.microsoft.com/en-us/research/people/fuwei/ Furu Wei] \n
+- Investigating multimodal Reasoning ([https://openreview.net/forum?id=6vk6Xg24ZC MVoT]) and spatial-reasoning evaluation ([https://arxiv.org/abs/2508.20068 11Plus-Bench]). 
+
+*2023*
+
+Toshiba Cambridge Research Laboratory \n
+- Research Intern \n
+- Mentors: [https://www.linkedin.com/in/svetlana-stoyanchev/?originalSubdomain=uk Svetlana Stoyanchev], [https://sites.google.com/site/cschaozhang/ Chao Zhang], [https://scholar.google.co.uk/citations?user=xxd3HZsAAAAJ&hl=en Rama Sanand Doddipatla] and [https://www.cl.cam.ac.uk/~sht25/ Prof. Simone Teufel] \n
+- Developed [https://aclanthology.org/2024.lrec-main.1274/ Semantic-Map Based Navigation Instruction Generation]. 
+
+*2021*
+
+Shanghai Artificial Intelligence Laboratory \n
+- Research Intern \n
+- Mentor: [https://scholar.google.com/citations?user=f1hBi5wAAAAJ&hl=en Lingpeng Kong] \n
+- Researched structured knowledge grounding in LLMs ([https://arxiv.org/abs/2201.05966 UnifiedSKG])

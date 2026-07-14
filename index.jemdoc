@@ -24,10 +24,13 @@ I was an undergraduate student in Automation at [http://en.xjtu.edu.cn/ Xi'an Ji
 
 
 == Research
-My research interests include language grounding and multimodal reasoning (eg. image, structural knowledge, etc.), especially spatial reasoning \[[https://arxiv.org/abs/2504.15037 New Recipes]\].
-I am currently exploring and focusing on the topics below:
-- Evaluation with explanatory and predictive power: \[[https://topviewrs.github.io/ TopViewRS]\] \[[https://arxiv.org/abs/2508.20068 11Plus]\] \[[https://vibe-benchmark.github.io/ VIBE]\]
-- Paradigm and methods for multimodal reasoning: \[[https://arxiv.org/abs/2501.07542v1 MVoT]\] \[[https://arxiv.org/abs/2505.11409 Visual Planning]\] \[[https://arxiv.org/abs/2505.11409 Thinking in Frames]\]
+My research interests center around *Visual Intelligence* with a specific focus on spatial reasoning \[[https://arxiv.org/abs/2504.15037 New Recipes]\], covering Multimodal LLMs, Video Generation Model and Multimodal Agents. 
+
+Specifically, my work focuses on:
+- Visual Intelligence and Multimodal Reasoning: \[[https://arxiv.org/abs/2505.11409 Visual Planning, ICLR Oral]\] \[[https://arxiv.org/abs/2501.07542v1 MVoT, ICML]\]
+- (M)LLMs and Agents: \[[https://arxiv.org/abs/2201.05966 UnifiedSKG, EMNLP Oral]\] \[[https://arxiv.org/abs/2210.02875 BINDER, ICLR Spotlight]\]
+- Video Generation for Planning: \[[https://arxiv.org/abs/2601.21037 Thinking in Frames]\] \[Microsoft Research Cambridge Internship Project\]
+- Evaluation and Predictability: \[[https://topviewrs.github.io/ TopViewRS, EMNLP Oral]\] \[[https://arxiv.org/abs/2508.20068 11Plus]\] \[[https://vibe-benchmark.github.io/ VIBE]\]
 
 I'm also interested in the potential downstream application scenarios of multimodal reasoning.
 
@@ -41,33 +44,33 @@ I'm also interested in the potential downstream application scenarios of multimo
 
 
 == Publications 
-(\*: equal contribution)
+(\*: equal contribution, +: corresponding author)
 
 *Preprints*
 
+- [https://arxiv.org/abs/2606.17682 From Trainee to Trainer: LLM-Designed Training Environment for RL with Multi-Agent Reasoning] \n
+Chao Chen, *Chengzu Li+*, Zhiwei Li, Yinhong Liu, Zhijiang Guo 
+
+- [https://arxiv.org/abs/2604.22748 Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond] \n
+Meng Chu, Xuan Billy Zhang, Kevin Qinghong Lin, ...,  *Chengzu Li*, ..., Ziwei Liu, Philip Torr, Jiaya Jia
+
 - [https://arxiv.org/abs/2601.21037 Thinking in Frames: How Visual Context and Test-Time Scaling Empower Video Reasoning] \n
 *Chengzu Li*\*, Zanyi Wang\*, Jiaang Li\*, Yi Xu, Han Zhou, Huanyu Zhang, Ruichuan An, Dengyang Jiang, Zhaochong An, Ivan Vulić, Serge Belongie, Anna Korhonen \n
-arxiv. \[[https://thinking-in-frames.github.io/ project website]\]
+\[[https://thinking-in-frames.github.io/ project website]\]
 
 - [https://arxiv.org/abs/2602.01851 How Well Do Models Follow Visual Instructions? VIBE: A Systematic Benchmark for Visual Instruction-Driven Image Editing] \n
 Huanyu Zhang\*, Xuehai Bai\*, *Chengzu Li\**, Chen Liang, Haochen Tian, Haodong Li, Ruichuan An, Yifan Zhang, Anna Korhonen, Zhang Zhang, Liang Wang, Tieniu Tan \n
-arxiv. \[[https://vibe-benchmark.github.io/ project website]\]
+\[[https://vibe-benchmark.github.io/ project website]\]
 
 - [https://arxiv.org/abs/2510.24514 Latent Sketchpad: Autoregressive Visual Latent Generation for Interpretable Visual Thoughts in MLLMs] \n
 Huanyu Zhang\*, Wenshan Wu\*, *Chengzu Li*, Ning Shang, Yan Xia, Yangyu Huang, Yifan Zhang, Li Dong, Zhang Zhang, Liang Wang, Tieniu Tan, Furu Wei \n
-arxiv. \[[https://latent-sketchpad.github.io/ project website]\]
+\[[https://latent-sketchpad.github.io/ project website]\]
 
 - [https://arxiv.org/abs/2508.20068 11Plus-Bench: Demystifying Multimodal LLM Spatial Reasoning with Cognitive-Inspired Analysis] \n
 *Chengzu Li*, Wenshan Wu, Huanyu Zhang, Qingtao Li, Zeyu Gao, Yan Xia, José Hernández-Orallo, Ivan Vulić, Furu Wei \n
-arxiv. 
 
 - [https://arxiv.org/abs/2504.15037 Scaling and Beyond: Advancing Spatial Reasoning in MLLMs Requires New Recipes] \n
 Huanyu Zhang\*, *Chengzu Li*\*, Wenshan Wu, Shaoguang Mao, Yan Xia, Ivan Vulić, Zhang Zhang, Liang Wang, Tieniu Tan, Furu Wei \n
-arXiv. 
-
-- [https://arxiv.org/abs/2505.23912 Reinforcement Learning for Better Verbalized Confidence in Long-Form Generation] \n
-Caiqi Zhang\*, Xiaochen Zhu\*, *Chengzu Li*, Nigel Collier, Andreas Vlachos \n
-arXiv. 
 
 *2026*
 - [https://arxiv.org/abs/2505.11409 Visual Planning: Let's Think Only with Images] \n
@@ -77,6 +80,18 @@ ICLR 2026 *(oral)*. \[[https://github.com/yix8/VisualPlanning code]\] \[[https:/
 - [https://openreview.net/forum?id=3KaIcArMAB Deforming Videos to Masks: Flow Matching for Referring Video Segmentation] \n
 Zanyi Wang, Dengyang Jiang, Liuzhuozheng Li, Sizhe Dang, *Chengzu Li*, Harry Yang, Guang Dai, Mengmeng Wang, Jingdong Wang \n
 ICLR 2026. \[[https://github.com/xmz111/FlowRVS code]\]
+
+- [https://arxiv.org/abs/2603.17840 Video Understanding: From Geometry and Semantics to Unified Models] \n
+Zhaochong An, Zirui Li, Mingqiao Ye, Feng Qiao, Jiaang Li, Zongwei Wu, Vishal Thengane, *Chengzu Li*, Lei Li, Luc Van Gool, Guolei Sun, Serge Belongie \n
+Machine Intelligence Research.
+
+- [https://arxiv.org/abs/2605.19491 Thinking in Scales: Accelerating Gigapixel Pathology Image Analysis via Adaptive Continuous Reasoning] \n
+Jiusong Ge, Yingkang Zhan, Wenjie Zhao, Di Zhang, Ke Wang, Jiashuai Liu, Chunze Yang, *Chengzu Li*, Jian Zhang, Yuxin Dong, Ni Zhang, Qidong Liu, Mireia Crispin-Ortuzar, Huazhu Fu, Chen Li, Zeyu Gao \n
+ICML 2026. 
+
+- [https://arxiv.org/abs/2505.23912 Reinforcement Learning for Better Verbalized Confidence in Long-Form Generation] \n
+Caiqi Zhang\*, Xiaochen Zhu\*, *Chengzu Li*, Nigel Collier, Andreas Vlachos \n
+ACL 2026. 
 
 
 *2025*
@@ -121,39 +136,10 @@ ICLR 2023 *(spotlight)*. \[[https://github.com/HKUNLP/Binder code]\]
 Tianbao Xie, Chen Henry Wu, Peng Shi, Ruiqi Zhong, Torsten Scholak, Michihiro Yasunaga, Chien-Sheng Wu, Ming Zhong, Pengcheng Yin, Sida I. Wang, Victor Zhong, Bailin Wang, *Chengzu Li*, Connor Boyle, Ansong Ni, Ziyu Yao, Dragomir Radev, Caiming Xiong, Lingpeng Kong, Rui Zhang, Noah A. Smith, Luke Zettlemoyer, Tao Yu. \n
 EMNLP 2022, main *(oral)*. \[[https://github.com/hkunlp/unifiedskg code]\]
 
-
-== Internships
-- Aug. 2025 - Nov. 2025
-\nVisiting Student, Belongie Lab, Pioneer Center for AI.
-\nMentor: [https://scholar.google.com/citations?user=chD5XxkAAAAJ&hl=en Prof. Serge Belongie].
-\nResearch on Multimodal Reasoning.
-
-- Jun. 2024 - Dec. 2024
-\nResearch Intern, [https://www.microsoft.com/en-us/research/group/general-artificial-intelligence/ GenAI Group, Microsoft Research].
-\nMentor: [https://scholar.google.com/citations?user=AwANOsQAAAAJ Wenshan Wu].
-\nResearch on Multimodal Spatial Reasoning.
-
-- Jan. 2023 - July 2023
-\nResearch Intern, [https://www.toshiba.eu/pages/eu/Cambridge-Research-Laboratory/ Toshiba Cambridge Research].
-\nMentor: [https://www.linkedin.com/in/svetlana-stoyanchev/?originalSubdomain=uk Svetlana Stoyanchev], [https://sites.google.com/site/cschaozhang/ Chao Zhang], [https://scholar.google.co.uk/citations?user=xxd3HZsAAAAJ&hl=en Rama Sanand Doddipatla] and [https://www.cl.cam.ac.uk/~sht25/ Prof. Simone Teufel].
-\nResearch on Generating Instructions for Robot Navigation as the MPhil thesis.
-
-- Oct. 2021 - Jan. 2022
-\nResearch Intern, Shanghai AI Lab.
-\nMentor: [https://ikekonglp.github.io/ Lingpeng Kong].
-\nResearch on Structural Knowledge Grounding.
-
-- June 2021 - Oct. 2022
-\nResearch Intern, [https://hkunlp.github.io/ HKUNLP].
-\nMentor: [https://taoyds.github.io/ Tao Yu] and [https://ikekonglp.github.io/ Lingpeng Kong].
-\nWorked on Structural Knowledge Grounding, Semantic Parsing and Neural-Symbolic Reasoning.
-
-- July 2020 - Aug. 2020
-\nEngineer Intern, Dianchu Technology.
-\nWorked on machine learning engineering.
-
-
 == Selected Honors & Awards
+- One of 3 nominations (Finalists) by University of Cambridge for the Apple AI/ML PhD Fellowship, 2025.
+- Postgraduate Research Fund from Jesus College, Cambridge, 2024 \& 2025. 
+- Lambda Research Grant (\$2000 USD in GPU credits), 2025. 
 - Scholar of Jesus College, Cambridge (for outstanding academic performance), 2024.
 - PhD Scholarship, Cambridge Trust, 2023.
 - Master Scholarship, Cambridge Trust, 2022.
@@ -161,10 +147,12 @@ EMNLP 2022, main *(oral)*. \[[https://github.com/hkunlp/unifiedskg code]\]
 
 
 == Media Coverage and Presentations
-- [https://docs.google.com/presentation/d/12UFPQxfwEHM6lScMME-JdWYsw-AuURsd8AG-L9MeLxg Invited Talk at HKUST (GZ): Reason with Multimodal Minds in Space]
-- [https://mp.weixin.qq.com/s/KXx1t3jIlhLWu0rlVoQWNA 机器之心：只用图像也能思考，强化学习造就推理模型新范式！复杂场景规划能力Max]
-- [https://mp.weixin.qq.com/s/FNeGEV7Vccfga53GxC9MMg 量子位：纯靠“脑补”图像，大模型推理准确率狂飙80%丨剑桥谷歌新研究]
-- [https://twimlai.com/podcast/twimlai/imagine-while-reasoning-in-space-multimodal-visualization-of-thought/ The TWIML AI Podcast with Sam Charrington]
-- [https://spectrum.ieee.org/visual-reasoning-in-ai IEEE Spectrum, ``Thinking" Visually Boosts AI Problem Solving]
-- [https://mp.weixin.qq.com/s/JwXYrDxiajnv0tNUuOPYFg 新智元：直接可视化多模态推理过程]
-- [https://www.youtube.com/watch?v=Y78aSGJNeXY BMVA: Trustworthy Multimodal Learning with Foundation Models]
+- Invited Guest Lecture at UCL NLP Course by Ehsan Shareghi on Multimodal Reasoning, 2026.
+- Invited Talk at Shanghai Artificial Intelligence Laboratory: Visual Planning (ICLR 2026 Oral), 2026. 
+- [https://docs.google.com/presentation/d/12UFPQxfwEHM6lScMME-JdWYsw-AuURsd8AG-L9MeLxg Invited Talk at HKUST (GZ): Reason with Multimodal Minds in Space, 2025.]
+- [https://mp.weixin.qq.com/s/KXx1t3jIlhLWu0rlVoQWNA 机器之心：只用图像也能思考，强化学习造就推理模型新范式！复杂场景规划能力Max, 2025.]
+- [https://mp.weixin.qq.com/s/FNeGEV7Vccfga53GxC9MMg 量子位：纯靠“脑补”图像，大模型推理准确率狂飙80%丨剑桥谷歌新研究, 2025.]
+- [https://twimlai.com/podcast/twimlai/imagine-while-reasoning-in-space-multimodal-visualization-of-thought/ The TWIML AI Podcast with Sam Charringto, 2025. ]
+- [https://spectrum.ieee.org/visual-reasoning-in-ai IEEE Spectrum, ``Thinking" Visually Boosts AI Problem Solving, 2025.]
+- [https://mp.weixin.qq.com/s/JwXYrDxiajnv0tNUuOPYFg 新智元：直接可视化多模态推理过程, 2025.]
+- [https://www.youtube.com/watch?v=Y78aSGJNeXY BMVA: Trustworthy Multimodal Learning with Foundation Models, 2024. ]
