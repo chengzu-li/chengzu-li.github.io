@@ -5,7 +5,7 @@
 ~~~
 {}{img_left}{assets/bio.jpg}{alt text}{400}{300}
 \n
-PhD student in Computation, Cognition and Language\n
+Final-year PhD student in Computation, Cognition and Language\n
 [https://ltl.mmll.cam.ac.uk/ Language Technology Lab]\n
 [https://www.cam.ac.uk/ University of Cambridge]
 
@@ -15,12 +15,16 @@ PhD student in Computation, Cognition and Language\n
 ~~~
 
 == About me
-I am a third-year PhD student in Computation, Cognition and Language at [https://ltl.mmll.cam.ac.uk/ Language Technology Lab] in the University of Cambridge, supervised by [https://sites.google.com/site/ivanvulic/ Dr. Ivan Vulić], [https://sites.google.com/site/annakorhonen/ Prof. Anna Korhonen] and [https://sergebelongie.github.io/ Prof. Serge Belongie].
+I am a final-year PhD student in Computation, Cognition and Language at [https://ltl.mmll.cam.ac.uk/ Language Technology Lab] in the University of Cambridge, supervised by [https://sites.google.com/site/ivanvulic/ Dr. Ivan Vulić], [https://sites.google.com/site/annakorhonen/ Prof. Anna Korhonen] and [https://sergebelongie.github.io/ Prof. Serge Belongie].
 My research is supported by Cambridge Trust.
 I am a member of [https://www.jesus.cam.ac.uk/ Jesus College].
 
+I am currently interning at [https://research.google/ Google] and previously interned as a Research Intern at [https://www.microsoft.com/en-us/research/ Microsoft Research].
+
 Before starting my PhD, I received my MPhil degree in Advanced Computer Science at the Department of Computer Science, supervised by [https://www.cl.cam.ac.uk/~sht25/ Prof. Simone Teufel], supported by Cambridge Trust.
 I was an undergraduate student in Automation at [http://en.xjtu.edu.cn/ Xi'an Jiaotong University].
+
+{{<span style="color:red">}}I am looking for full-time Research Scientist roles; feel free to contact me regarding research collaborations and potential job opportunities.{{</span>}}
 
 
 == Research
@@ -28,9 +32,9 @@ My research interests center around *Visual Intelligence* with a specific focus 
 
 Specifically, my work focuses on:
 - Visual Intelligence and Multimodal Reasoning: \[[https://arxiv.org/abs/2505.11409 Visual Planning, ICLR Oral]\] \[[https://arxiv.org/abs/2501.07542v1 MVoT, ICML]\]
-- (M)LLMs and Agents: \[[https://arxiv.org/abs/2201.05966 UnifiedSKG, EMNLP Oral]\] \[[https://arxiv.org/abs/2210.02875 BINDER, ICLR Spotlight]\]
-- Video Generation for Planning: \[[https://arxiv.org/abs/2601.21037 Thinking in Frames]\]
-- Evaluation and Predictability: \[[https://topviewrs.github.io/ TopViewRS, EMNLP Oral]\] \[[https://arxiv.org/abs/2508.20068 11Plus]\] \[[https://vibe-benchmark.github.io/ VIBE]\]
+- Multimodal Agentic Reasoning: \[[https://arxiv.org/abs/2201.05966 UnifiedSKG, EMNLP Oral]\] \[[https://arxiv.org/abs/2210.02875 BINDER, ICLR Spotlight]\]
+- World Models & Video Generation for Planning: \[[https://arxiv.org/abs/2601.21037 Thinking in Frames]\]
+- Evaluation and Capability Understanding: \[[https://topviewrs.github.io/ TopViewRS, EMNLP Oral]\] \[[https://arxiv.org/abs/2508.20068 11Plus]\] \[[https://vibe-benchmark.github.io/ VIBE]\]
 
 I'm also interested in the potential downstream application scenarios of multimodal reasoning.
 
